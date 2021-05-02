@@ -17,7 +17,7 @@ It’s riddled with spelling and grammar mistakes.
 It’s obviously written by someone who isn’t a native speaker.
 It’s a HUGE waste of your money.
 
-That's what you're probably used to with other copywriters. TheyMost other copywriters just want to take your money, send you some awful copy, and then you never see them again. 
+That's what you're probably used to with other copywriters. They just want to take your money, send you some awful copy, and then you never see them again. 
 ## I work differently...
 
 If you choose to work with me you can be confident you'll not have those issues. I don’t want you to waste your money. I want you to be so happy with the results that you immediately think of me when your next project comes up. Tell me which medium the content is for, the target market, the aim of the piece, and I'll handle the rest. You carry on smashing your goals - or drinking wine, no judgement - while I craft the copy you deserve.
@@ -27,7 +27,7 @@ If you choose to work with me you can be confident you'll not have those issues.
 I was awarded a Master of Arts degree in Philosophy. It's best described as a communication and persuasive writing degree with a fancy intellectual wrapper. It's developed a multitude of skills that I bring to the table:
 
   * **Clear and concise writing** - you want people to immediately understand why your product is great.
-  * **Research skills** - I'll research your business, main competitors, and VOC to find unique selling points that will speak to your customers.
+  * **Research skills** - I'll research your business, main competitors, and voice of customer(VOC)to find unique selling points that will speak to your customers.
   * **Analytical skills** - A lot of copy is based on very shaky arguments. This lowers your trustworthiness and can cost you sales. I've got the background required to create emotional copy that can’t be dismissed for outlandish claims.
 
 <blockquote>“This is one of my favorite emails I've received this year!” – Jacob McMillen | #1 U.S. search result for ‘copywriter’</blockquote>
@@ -36,7 +36,6 @@ I was awarded a Master of Arts degree in Philosophy. It's best described as a co
   * **Research** –  I’ll investigate what’s working for your competitors and how customers talk about your products.
   * **Writing** – not long after that, you’ll receive a well written, compelling piece of copy.
   * **Happiness check** – We’ll confirm you’re happy with the work. If not, no worries. I’ll address anything you’d like done differently and promptly send you a revised version.
-  * **Smile and sell** – You’ll leave with a smile at how easy the process was.
 
 I hope by this point you realise the advantages of hiring me as your copywriter. You now need to decide how to proceed.
 ### Option #1: Maintain the status quo.
@@ -64,5 +63,7 @@ It’s time for you to choose. If you’ve reached this point then I imagine you
  * Long-Form Sales Page
  * Ad Copy
  * Content Writing
-
+ 
+## Interested? 
+### Send me a message about your project and I'll get back to you asap!
 {% include contact-form.html %}
