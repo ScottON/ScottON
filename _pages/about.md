@@ -8,7 +8,7 @@ featured_image: /images/demo/about.jpg
 ## Features
 
 We've packed Personal full of powerful features to help showcase your work:
-
+<blockquote>This is a test -- Scott</blockquote>
 * Beautiful, minimal design
 * Large header image and single column post layout
 * Responsive – works perfectly on all devices
