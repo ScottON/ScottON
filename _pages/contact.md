@@ -1,6 +1,6 @@
 ---
 title: Let's chat
-subtitle: Send me a message about your proejct and I'll get back to you asap!
+subtitle: Send me a message about your project and I'll get back to you asap!
 description: Contact me if you're looking for a freelance writer to help grow your business.
 featured_image: /images/demo/contact.jpg
 ---

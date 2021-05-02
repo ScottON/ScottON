@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: A sleek, modern Jekyll theme for personal websites.
+  footer_tagline: The writer your business needs
 
 hero_settings:
   overlay_opacity: 0.8
@@ -35,13 +35,13 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/scotton90/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
-  medium_url: ''
+  medium_url: 'https://scott-oneill.medium.com/'
   quora_url: ''
   amazon_url: ''
   apple_url: ''
