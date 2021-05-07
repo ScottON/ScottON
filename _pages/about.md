@@ -24,6 +24,8 @@ You'll not have those issues if you work with me. I don’t want you to waste yo
 
 <blockquote>"10/10 incredible freelancer, Scott has great range, commits to the project, and takes pride in his work. I wouldn't hesitate to recommend him to family or friends... If you need anything from business copywriting to creative content writing Scott will get it done." – James Wilson | That American Grind. </blockquote>
 ## What makes me special:
+I’ve written successful landing pages, blogs, email campaigns, and ads for my clients. They cover a range of industries: fintech, recruitment, skincare, software development, and education to name a few.
+
 I was awarded a Master of Arts degree in Philosophy. It's best described as a communication and persuasive writing degree with a fancy intellectual wrapper. It's developed a multitude of skills that I bring to the table:
 
 **Clear and concise writing** – you want people to immediately understand why your product is great.
