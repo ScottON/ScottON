@@ -14,10 +14,10 @@ I’ve written successful landing pages, blogs, email campaigns, and ads for my 
 You know the power of good copy. It’s why you're reading this. You want more email signups, increased ad click-throughs, and ultimately more sales.
 
 Unfortunately, you've also seen bad copy before :
-It’s horrible spam-esque writing that you automatically close before reading a word.
-It’s riddled with spelling and grammar mistakes.
-It’s obviously written by someone who isn’t a native speaker.
-It’s a HUGE waste of your money.
+ * It’s horrible spam-esque writing that you automatically close before reading a word.
+ * It’s riddled with spelling and grammar mistakes.
+ * It’s obviously written by someone who isn’t a native speaker.
+ * It’s a HUGE waste of your money.
 
 That's what you're probably used to with other copywriters. They just want to take your money, send you some awful copy, and disappear. 
 ## I work differently...
@@ -28,16 +28,16 @@ You'll not have those issues if you work with me. I don’t want you to waste yo
 ## What makes me unique:
 I was awarded a Master of Arts degree in Philosophy. It's best described as a communication and persuasive writing degree with a fancy intellectual wrapper. It's developed a multitude of skills that I bring to the table:
 
-**Clear and concise writing** – you want people to immediately understand why your product is great.
-**Research skills** – I'll research your business, main competitors, and voice of customer (VOC) to find unique selling points that will speak to your customers.
-**Analytical skills** – a lot of copy is based on very shaky arguments. This lowers your trustworthiness and can cost you sales. I've got the background required to create emotional copy that can’t be dismissed for outlandish claims.
+ * **Clear and concise writing** – you want people to immediately understand why your product is great.
+ * **Research skills** – I'll research your business, main competitors, and voice of customer (VOC) to find unique selling points that will speak to your customers.
+ * **Analytical skills** – a lot of copy is based on very shaky arguments. This lowers your trustworthiness and can cost you sales. I've got the background required to create emotional copy that can’t be dismissed for outlandish claims.
 
 <blockquote>“This is one of my favorite emails I've received this year!” – Jacob McMillen | #1 U.S. search result for ‘copywriter’</blockquote>
 ## What to expect if you hire me:
-  * **Questionnaire & Call** – this lets me understand your expectations, how you view your business, and get a feel for your company's ‘voice’.
-  * **Research** –  I’ll investigate what’s working for your competitors and what customers say about your products.
-  * **Writing** – not long after that, you’ll receive a well-written, compelling piece of copy.
-  * **Happiness check** – we’ll confirm you’re happy with the work. If not, no worries. I’ll address anything you’d like done differently and promptly send you a revised version.
+ * **Questionnaire & Call** – this lets me understand your expectations, how you view your business, and get a feel for your company's ‘voice’.
+ * **Research** –  I’ll investigate what’s working for your competitors and what customers say about your products.
+ * **Writing** – not long after that, you’ll receive a well-written, compelling piece of copy.
+ * **Happiness check** – we’ll confirm you’re happy with the work. If not, no worries. I’ll address anything you’d like done differently and promptly send you a revised version.
 
 By this point, you should realise the advantages of hiring me as your copywriter. You now need to decide how to proceed.
 ### Option #1: Maintain the status quo
