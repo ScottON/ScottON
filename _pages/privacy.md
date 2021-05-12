@@ -7,7 +7,7 @@ featured_image: /images/privacy.jpg
 # Privacy Policy
 
 ## Human Friendly Version
-This site uses Cookies and Google Analytics. This lets me optimise my site. You may receive targeted ads. Pretty much bog-standard stuff. The technical version can be found below.
+This site uses Cookies and Google Analytics. This lets me optimise the site. You may receive targeted ads. Pretty much bog-standard stuff. The technical version can be found below.
 
 ## Privacy Policy
 
