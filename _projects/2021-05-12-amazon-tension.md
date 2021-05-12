@@ -3,7 +3,7 @@ title: 'My Kindle Book: Tension'
 subtitle: 'Amazon store listing and eBook content'
 date: 2021-05-12 17:30:00
 description: A look at my Kindle eBook: Amazon store listing and eBook content
-featured_image: '/images/demo/demo-landscape.jpg'
+featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
