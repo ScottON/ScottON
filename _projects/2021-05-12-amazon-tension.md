@@ -75,7 +75,7 @@ I write words that captivate, convery, and convert.
 
 Whether you’re looking for sales copy or content that keeps your readers glued to the screen...
 
-I’m the writer for your team.
+I’m the writer you’ve been looking for.
 
 
 <a href="https://scott-oneill.co.uk/contact" class="button button--large">Work with me</a>
