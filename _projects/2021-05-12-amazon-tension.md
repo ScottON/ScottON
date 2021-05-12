@@ -50,7 +50,7 @@ Finally, I finished with a strong CTA.
 
 ### Testimonials
 
-People seem to like it:
+People seem to like it...
 
 ---
 <div class="gallery" data-columns="1">
