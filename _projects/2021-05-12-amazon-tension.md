@@ -71,8 +71,11 @@ Videos are an awesome way to show off your work in a more engaging and personal 
 
 ## Pretty cool, huh?
 
-We've packed this theme with powerful features to show off your work.
+I write words that captivate, convery, and convert.
 
-Why not put them to use on your new portfolio?
+Whether you’re looking for sales copy or content that keeps your readers glued to the screen...
+
+I’m the writer for your team.
+
 
 <a href="https://scott-oneill.co.uk/contact" class="button button--large">Work with me</a>
