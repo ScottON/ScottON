@@ -7,7 +7,7 @@ featured_image: /images/privacy.jpg
 # Privacy Policy
 
 ## Human Friendly Version
-may receive targeted ads. Pretty much bog-standard stuff. The technical version can be found below.
+This site uses Cookies, Google Analytics, and HubSpot tracking. This lets me optimise my site. You may receive targeted ads. Pretty much bog-standard stuff. The technical version can be found below.
 
 ## Privacy Policy
 
