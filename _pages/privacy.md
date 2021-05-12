@@ -55,4 +55,4 @@ If we make any material changes to this Privacy Policy, we will notify you eithe
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please [https://scott-oneill.co.uk/contact]("contact us").
+If you have any questions about this Privacy Policy, please [https://scott-oneill.co.uk/contact][contact us].
