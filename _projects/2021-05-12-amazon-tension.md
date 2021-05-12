@@ -59,7 +59,9 @@ Here's a really neat custom feature we added – galleries:
 	<img src="/images/certs/digital-marketing.jpg">
 	<img src="/images/certs/HubSpotDigitalAdvertising.png">
 	<img src="/images/certs/HubSpotEmailMarketingCertification.png">
+    <img src="/images/certs/GoogleAdsDisplayCertification.jpg">
     <img src="/images/certs/HubSpotInboundMarketing.png">
+    
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
