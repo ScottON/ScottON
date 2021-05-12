@@ -51,6 +51,7 @@ Finally, I finished with a strong CTA.
 ### Testimonials
 
 People seem to like it:
+
 ---
 <div class="gallery" data-columns="1">
 	<img src="/images/portfolio/tension/review1.jpg">
@@ -60,7 +61,7 @@ People seem to like it:
     
 </div>
 
-### What about videos?
+### 
 
 Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
 
