@@ -10,7 +10,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Why write an eBook?
 
-I’m a pretty serious lifter and wanted to make lockdown a little easier for everyone missing the gym. My goal was to write a short guide that explained everything you need to know about training with resistance bands. 
+I’m a pretty serious lifter and wanted to make lockdown a little easier for anyone missing the gym. My goal was to write a short guide that explained everything you need to know about training with resistance bands. 
 
 I wrote and released **Tension: Build a Bigger, Stronger You With Resistance Band Training**
 
@@ -19,80 +19,48 @@ I wrote and released **Tension: Build a Bigger, Stronger You With Resistance Ban
 I didn’t want my book to get lost among all the others. It needed some eye-catching copy to draw potential readers in.
 
 <div class="gallery" data-columns="1">
-<img src="/images/portfolio/tension-amazon-store.jpg">
-</div>
+<img src="/images/portfolio/tension/tension-amazon-store.jpg">
+<div>
 
-You can read the full copy by visiting your Amazon store of choice:
-[US](https://www.amazon.com/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [UK](https://www.amazon.co.uk/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [CA](https://www.amazon.ca/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [AU](https://www.amazon.com.au/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [IN](https://www.amazon.in/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [MX](https://www.amazon.com.mx/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [DE](https://www.amazon.de/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [IT](https://www.amazon.it/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [ES](https://www.amazon.es/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [BR](https://www.amazon.com.br/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [NL](https://www.amazon.nl/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [JP](https://www.amazon.co.jp/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [FR](https://www.amazon.fr/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/)
+You can read the full copy by visiting [Amazon](https://www.amazon.com/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/) or scroll down for a few snippets.
 
-And:
+The copy was written to make clear how well resistance band training can work.
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+>If you **train correctly with resistance bands**, you get these **results automatically**. The problem is that most fitness apps and online video programs want you to do ridiculous exercises that are a waste of time.
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+>This guide only covers things that have been tried and tested. It’s **backed by science** AND **first-hand experience**.
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+>How to become the **strongest you’ve ever been... without leaving your house.**
 
-The theme also supports markdown tables:
+I didn’t want the copy to sound too gimmicky, so I added a reality check that won’t put anyone off. Everyone expects *real* exercise to involve hard work.
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+>In case it wasn’t clear this guide is hyper-focused on getting you the most bang for your buck. It’s not aimed at someone looking for an easy home workout. Training with heavy resistance bands can get you amazing results, but only if you put in the work.
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
+To make sure everyone knew I was an authority figure I dropped in some pretty strong proof.
 
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
+>I’ve been involved in a variety of strength sports for over a decade. Everything from freerunning, climbing, powerlifting, gymnastics, and martial arts. I’ve spent the last few years focusing on stone lifting. I’ve lifted the fabled **330kg Dinnie Stones**, as well as several of the other named Scottish stones.
 
-You can throw in some horizontal rules too:
+I also used a personal anecdote to make the results clear and trigger a little envy. This lets them imagine themselves getting the same results if they buy the book.
+
+> I was wearing a shirt I hadn’t worn recently when my wife said “your back is looking huge, what have you been doing?”
+
+Finally, I finished with a strong CTA.
+
+>**I challenge you** to commit to the basic routine for 12 weeks. Put in the work, follow the program, and results are inevitable!
+
 
 ---
 
-### Image galleries
+### Testimonials
 
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/certs/InboundCert.png">
-	<img src="/images/certs/digital-marketing.jpg">
-	<img src="/images/certs/HubSpotDigitalAdvertising.png">
-	<img src="/images/certs/HubSpotEmailMarketingCertification.png">
-    <img src="/images/certs/GoogleAdsDisplayCertification.jpg">
-    <img src="/images/certs/HubSpotInboundMarketing.png">
-    
-</div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
----
-
-### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
+People seem to like it:
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/portfolio/tension/review1.jpg">
+	<img src="/images/portfolio/tension/review2.jpg">
+	<img src="/images/portfolio/tension/review3.jpg">
+	<img src="/images/portfolio/tension/revie4.jpg">
+    
 </div>
 
 ### What about videos?
