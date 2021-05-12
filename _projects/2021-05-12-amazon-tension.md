@@ -48,18 +48,15 @@ Finally, I finished with a strong CTA.
 
 >**I challenge you** to commit to the basic routine for 12 weeks. Put in the work, follow the program, and results are inevitable!
 
-
----
-
 ### Testimonials
 
 People seem to like it:
-
+---
 <div class="gallery" data-columns="1">
 	<img src="/images/portfolio/tension/review1.jpg">
 	<img src="/images/portfolio/tension/review2.jpg">
 	<img src="/images/portfolio/tension/review3.jpg">
-	<img src="/images/portfolio/tension/revie4.jpg">
+	<img src="/images/portfolio/tension/review4.jpg">
     
 </div>
 
