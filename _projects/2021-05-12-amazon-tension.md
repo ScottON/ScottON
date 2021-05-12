@@ -3,12 +3,12 @@ title: 'My Kindle Book: Tension'
 subtitle: 'Amazon store listing and eBook content'
 date: 2021-05-12 17:30:00
 description: A look at my Kindle eBook: Amazon store listing and eBook content
-featured_image: '/images/portfolio/tension-cover.jpeg'
+featured_image: '/images/demo/demo-landscape.jpg'
 ---
 
-![](/images/portfolio/tension-cover.jpeg)
+![](/images/demo/demo-landscape.jpg)
 
-## Why write an eBook?
+## Demo content
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
