@@ -8,19 +8,21 @@ featured_image: '/images/demo/demo-landscape.jpg'
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## Why write an eBook?
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+I’m a pretty serious lifter and wanted to make lockdown a little easier for everyone missing the gym. My goal was to write a short guide that explained everything you need to know about training with resistance bands. 
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+I wrote and released **Tension: Build a Bigger, Stronger You With Resistance Band Training**
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+## Amazon store copy
 
-You can create lists:
+I didn’t want my book to get lost among all the others. It needed some eye-catching copy to draw potential readers in.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+<div class="gallery" data-columns="1">
+<img src="/images/portfolio/tension-amazon-store.jpg">
+<div>
+
+You can read the full copy by visiting Amazon: [US](https://www.amazon.com/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [UK](https://www.amazon.co.uk/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [CA](https://www.amazon.ca/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [AU](https://www.amazon.com.au/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [IN](https://www.amazon.in/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [MX](https://www.amazon.com.mx/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [DE](https://www.amazon.de/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [IT](https://www.amazon.it/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [ES](https://www.amazon.es/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [BR](https://www.amazon.com.br/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [NL](https://www.amazon.nl/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [JP](https://www.amazon.co.jp/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/), [FR](https://www.amazon.fr/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/)
 
 And:
 
