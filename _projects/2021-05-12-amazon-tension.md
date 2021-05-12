@@ -20,7 +20,7 @@ I didn’t want my book to get lost among all the others. It needed some eye-cat
 
 <div class="gallery" data-columns="1">
 <img src="/images/portfolio/tension/tension-amazon-store.jpg">
-<div>
+</div>
 
 You can read the full copy by visiting [Amazon](https://www.amazon.com/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/) or scroll down for a few snippets.
 
