@@ -1,12 +1,12 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+title: 'My Kindle Book: Tension'
+subtitle: 'Amazon store listing and eBook content'
+date: 2021-05-12 17:30:00
+description: A look at my Kindle eBook: Amazon store listing and eBook content
+featured_image: '/images/portfolio/tension-cover.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/portfolio/tension-cover.jpg)
 
 ## Demo content
 

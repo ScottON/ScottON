@@ -1,9 +1,9 @@
 ---
-title: 'My Kindle Book: Tension'
-subtitle: 'Amazon store listing and eBook content'
-date: 2021-05-12 17:30:00
-description: A look at my Kindle eBook: Amazon store listing and eBook content
-featured_image: '/images/portfolio/tension-cover.jpg'
+title: 'Marketing Certifications'
+subtitle: 'My digital marketing education'
+date: 2018-06-30 00:00:00
+description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
@@ -56,10 +56,12 @@ You can throw in some horizontal rules too:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+	<img src="/images/certs/InboundCert.png">
+	<img src="/images/certs/digital-marketing.jpg">
+	<img src="/images/certs/HubSpotDigitalAdvertising.png">
+	<img src="/images/certs/HubSpotEmailMarketingCertification.png">
+    <img src="/images/certs/GoogleAdsDisplayCertification.jpg">
+    <img src="/images/certs/HubSpotInboundMarketing.png">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
