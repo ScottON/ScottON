@@ -22,6 +22,14 @@ You can create lists:
 * Like this one
 * Are cool
 
+
+<!-- Begin: HubSpot Academy - Digital Advertising Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='Digital Advertising'>
+<img src='https://hubspot-academy.s3.amazonaws.com/prod/tracks/user-badges/12210174/abe194e332f449c3a7c9a2f2bfc2fb2c-1619263144774.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Digital Advertising Badge -->
 And:
 
 1. Numbered lists
