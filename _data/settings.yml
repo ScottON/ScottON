@@ -161,6 +161,9 @@ advanced_settings:
 
       gtag('config', 'G-F9XZTZE26N');
     </script>
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8618978.js"></script>
+    <!-- End of HubSpot Embed Code -->
   custom_styles: ""
   header_js: ""
   footer_js: ""
