@@ -53,6 +53,6 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us or by placing a prominent notice on our website.
 
-### Contact me
+### Contact
 
 If you have any questions about this Privacy Policy, please [get in touch](https://scott-oneill.co.uk/contact)
