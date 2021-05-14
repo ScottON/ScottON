@@ -37,7 +37,7 @@ I was selling it pretty hard. But I didn’t want the copy to sound too gimmicky
 
 > It’s not aimed at someone looking for an easy home workout. Training with heavy resistance bands can get you amazing results, but only if you put in the work.
 
-To make sure everyone knew I was an authority figure I dropped in some pretty strong proof. Combine this with the trust I just built and the readers view me as an expert.
+To make sure everyone knew I was an authority figure I added some pretty strong proof. Combine this with the trust I just built and the readers view me as an expert.
 
 >I’ve been involved in a variety of strength sports for over a decade. Everything from freerunning, climbing, powerlifting, gymnastics, and martial arts. I’ve spent the last few years focusing on stone lifting. I’ve lifted the fabled **330kg Dinnie Stones**, as well as several of the other named Scottish stones.
 
