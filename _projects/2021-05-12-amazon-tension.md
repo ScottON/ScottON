@@ -33,7 +33,7 @@ The copy was written to make clear how effective resistance band training actual
 
 >How to become the **strongest you’ve ever been... without leaving your house.**
 
-I was selling it pretty hard. But I didn’t want the copy to sound too gimmicky, so I ‘admitted’ a limitation. The trick is this won’t put anyone off. Everyone expects *real* exercise to involve hard work. By being open, I’ve built trust with my potential reader.
+I was selling it pretty hard. But I didn’t want the copy to sound too gimmicky, so I ‘admitted’ a limitation. The trick is to share something that won’t put anyone off. Everyone expects *real* exercise to involve hard work. By being open, I’ve built trust with my potential reader.
 
 > It’s not aimed at someone looking for an easy home workout. Training with heavy resistance bands can get you amazing results, but only if you put in the work.
 
