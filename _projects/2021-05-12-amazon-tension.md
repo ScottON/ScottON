@@ -78,7 +78,7 @@ Obviously, this study doesn’t translate exactly to humans. It does however off
 
 ---
 
-If you want more, either head over to [Amazon](https://www.amazon.com/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/) and click that buy button or send me a message and I’ll hook you up.
+If you want more, head over to [Amazon](https://www.amazon.com/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/) and click that buy button or send me a message and I’ll hook you up.
 
 ## Pretty cool, right?
 
