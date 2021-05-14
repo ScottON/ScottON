@@ -3,10 +3,10 @@ title: "My Kindle Book: Tension"
 subtitle: 'Amazon store copy and eBook content'
 date: 2021-05-12 00:00:00
 description: "A breakdown of the copy on my Amazon listing. I’ll explain why it works so well. Oh, and I’ll share a sample of the eBook content."
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/portfolio/tension/tension-cover.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/portfolio/tension/tension-cover.png)
 ## Why did I write an eBook?
 
 I’m a pretty serious lifter and wanted to make lockdown a little easier for anyone missing the gym. Passive income is a nice incentive too! 
