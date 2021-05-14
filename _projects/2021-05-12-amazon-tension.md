@@ -65,6 +65,7 @@ People seem to like it...
 
 #### Want to turn your prospects into buyers?
 <a href="https://scott-oneill.co.uk/contact" class="button button--large">Work with me</a>
+---
 
 ### What about the content of the book?
 Since you asked nicely, I’ll give you a little taster.
