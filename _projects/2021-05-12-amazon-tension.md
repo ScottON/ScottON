@@ -53,6 +53,7 @@ Finally, I finished with a strong CTA.
 
 People seem to like it...
 ---
+
 <div class="gallery" data-columns="1">
 	<img src="/images/portfolio/tension/review1.jpg">
 	<img src="/images/portfolio/tension/review2.jpg">
