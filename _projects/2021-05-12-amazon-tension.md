@@ -6,7 +6,7 @@ description: "A breakdown of the copy on my Amazon listing. I’ll explain why i
 featured_image: '/images/portfolio/tension/tension-cover.png'
 ---
 
-![](/images/portfolio/tension/tension-cover.png)
+![](/images/portfolio/tension/tension-landscape.png)
 ## Why did I write an eBook?
 
 I’m a pretty serious lifter and wanted to make lockdown a little easier for anyone missing the gym. Passive income is a nice incentive too! 
