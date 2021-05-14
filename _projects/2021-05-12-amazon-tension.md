@@ -54,6 +54,7 @@ Finally, I finished with a strong CTA.
 People seem to like it...
 
 ---
+
 <div class="gallery" data-columns="1">
 	<img src="/images/portfolio/tension/review1.jpg">
 	<img src="/images/portfolio/tension/review2.jpg">
@@ -61,20 +62,28 @@ People seem to like it...
 	<img src="/images/portfolio/tension/review4.jpg">
     
 </div>
+
 ---
+
 #### Want to turn your prospects into buyers?
 <a href="https://scott-oneill.co.uk/contact" class="button button--large">Work with me</a>
 
 ### What about the content of the book?
 Since you asked nicely, I’ll give you a little taster.
+
 ---
+
 The strength curve is a way of talking about which part of an exercise is hard and easy. Let’s consider a conventional back squat. The hardest bit of the exercise is when you’re at the bottom of the squat. Getting ‘out the hole’ is everyone's weak point. As you get nearer lockout, the exercise gets easier. 
+
 ---
+
 ---
 “ Imagine having 10% of your weight strapped onto your arm for an entire day! The birds accumulated 5 total days of stretch time and the results were then investigated. The results showed an increase of 16% in anterior latissimus dorsi muscle fibres. In other words – the birds got jacked. You can imagine how this excites bodybuilders!
 
 Obviously, this study doesn’t translate exactly to humans. It does however offer an exciting look into the possibilities of loaded stretching. The huge success in birds inspired many human studies. The results are in: loaded stretching builds muscle fast in humans. Now, before you get overly excited, I want to point out that the results aren’t as freaky in humans. It's much faster than many other methods but you’re not going to be bursting out your shirts in a week.”
+
 ---
+
 If you want more, either head over to [Amazon](https://www.amazon.com/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/) and click that buy button or send me a message and I’ll hook you up.
 
 ## Pretty cool, right?
