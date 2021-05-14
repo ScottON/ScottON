@@ -52,6 +52,7 @@ Finally, I finished with a strong CTA.
 ### Testimonials
 
 People seem to like it...
+
 ---
 
 <div class="gallery" data-columns="1">
@@ -59,12 +60,13 @@ People seem to like it...
 	<img src="/images/portfolio/tension/review2.jpg">
 	<img src="/images/portfolio/tension/review3.jpg">
 	<img src="/images/portfolio/tension/review4.jpg">
-    
 </div>
+
 ---
 
 #### Want to turn your prospects into buyers?
 <a href="https://scott-oneill.co.uk/contact" class="button button--large">Work with me</a>
+
 ---
 
 ### What about the content of the book?
