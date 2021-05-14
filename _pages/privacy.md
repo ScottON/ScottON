@@ -6,10 +6,10 @@ featured_image: /images/privacy.jpg
 ---
 # Privacy Policy
 
-## Human Friendly Version
-This site uses Cookies and Google Analytics. This lets me optimise the site. You may receive targeted ads. Pretty much bog-standard stuff. The technical version can be found below.
+## Human friendly version
+This site uses Cookies and Google Analytics. They let me optimise the site. You may receive targeted ads. Pretty much bog-standard stuff. The technical version can be found below.
 
-## Privacy Policy
+## Privacy policy
 
 Last updated: (12/05/21)
 
@@ -17,11 +17,11 @@ Scott D O’Neill ("us", "we", or "our") operates https://scott-oneill.co.uk/ (t
 
 We use your Personal Information for improving the Site and may be used for Retargeting. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-### Information Collection And Use
+### Information collection and use
 
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information").
 
-### Log Data
+### Log data
 
 Like many site operators, we collect information that your browser sends whenever you visit our Site ("Log Data").
 
@@ -45,7 +45,7 @@ Like many sites, we use "cookies" to collect information. You can instruct your 
 
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-### Changes To This Privacy Policy
+### Changes to this privacy policy
 
 This Privacy Policy is effective as of 12/05/21 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
@@ -53,6 +53,6 @@ We reserve the right to update or change our Privacy Policy at any time and you 
 
 If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us or by placing a prominent notice on our website.
 
-### Contact Us
+### Contact me
 
-If you have any questions about this Privacy Policy, please [contact us.](https://scott-oneill.co.uk/contact)
+If you have any questions about this Privacy Policy, please [get in touch](https://scott-oneill.co.uk/contact)
