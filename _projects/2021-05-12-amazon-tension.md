@@ -71,9 +71,6 @@ People seem to like it...
 Since you asked nicely, I’ll give you a little taster.
 
 ---
-"The strength curve is a way of talking about which part of an exercise is hard and easy. Let’s consider a conventional back squat. The hardest bit of the exercise is when you’re at the bottom of the squat. Getting ‘out the hole’ is everyone's weak point. As you get nearer lockout, the exercise gets easier."
-
----
 
 "Imagine having 10% of your weight strapped onto your arm for an entire day! The birds accumulated 5 total days of stretch time and the results were then investigated. The results showed an increase of 16% in anterior latissimus dorsi muscle fibres. In other words – the birds got jacked. You can imagine how this excites bodybuilders!
 
