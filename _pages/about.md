@@ -1,7 +1,7 @@
 ---
 title: About me
 subtitle: I want to write words for your business that captivate, convey, and convert.
-description: I want to write words for your business that captivate, convey, and convert. Learn what makes me unique.
+description: I want to write words for your business that captivate, convey, and convert. Learn what I can do for you.
 featured_image: /images/demo/about.jpg
 ---
 

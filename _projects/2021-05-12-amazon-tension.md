@@ -1,13 +1,13 @@
 ---
 title: "My Kindle Book: Tension"
-subtitle: 'Amazon store copy and eBook content'
+subtitle: 'Amazon store copy and ebook content'
 date: 2021-05-12 00:00:00
-description: "A breakdown of the copy on my Amazon listing. I’ll explain why it works so well. Oh, and I’ll share a sample of the eBook content."
+description: "A breakdown of the copy on my Amazon listing. I’ll explain why it works so well. Oh, and I’ll share a sample of the ebook content."
 featured_image: '/images/portfolio/tension/tension-square.png'
 ---
 
 ![](/images/portfolio/tension/tension-landscape.png)
-## Why did I write an eBook?
+## Why did I write an ebook?
 
 I’m a pretty serious lifter and wanted to make lockdown a little easier for anyone missing the gym. Passive income is a nice incentive too! 
 
@@ -84,4 +84,8 @@ Whether you’re looking for sales copy or content that keeps your readers glued
 
 I’m the writer you’ve been looking for.
 
-<a href="https://scott-oneill.co.uk/contact" class="button button--large">Work with me</a>
+---
+## Grow your business with writing that speaks to your prospects
+### Send me a message about your project and I'll get back to you asap!
+{% include contact-form.html %}
+
