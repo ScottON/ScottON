@@ -2,7 +2,7 @@
 title: 'Marketing Certifications'
 subtitle: 'My digital marketing education'
 date: 2021-05-11 00:00:00
-description: "An overview of my digital marketing and copywriting education"
+description: "An overview of my digital marketing and copywriting education."
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
