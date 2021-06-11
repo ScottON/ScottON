@@ -56,7 +56,7 @@ You get to waste your money and time in this scenario. Hiring a copywriter is me
 
 I put my abilities to use for you. I’ll use my unique research process to gather the information I need. Then, I write and polish the copy so your customer is begging to buy. You can sit back and relax while I handle it. Professional copy sent to you by the agreed deadline. Unlimited revisions with my 100% satisfaction guarantee.
 
-It’s to choose. If you’ve reached this point then I imagine you’ve taken a liking to option #3. Have a look at the services I offer below. 
+It’s time to choose. If you’ve reached this point then I imagine you’ve taken a liking to option #3. Have a look at the services I offer below. 
 
 Contact me if you’ve got a project you’d like to discuss.
 
