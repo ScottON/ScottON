@@ -1,7 +1,7 @@
 ---
 title: About me
-subtitle: I want to write words for your business that captivate, convey, and convert.
-description: I want to write words for your business that captivate, convey, and convert. Learn what I can do for you.
+subtitle: I write words that captivate, convey, and convert.
+description: I write words that captivate, convey, and convert. Learn what I can do for you.
 featured_image: /images/demo/about.jpg
 ---
 
@@ -71,3 +71,5 @@ Contact me if you’ve got a project you’d like to discuss.
 ## Interested? 
 ### Send me a message about your project and I'll get back to you asap!
 {% include contact-form.html %}
+
+
