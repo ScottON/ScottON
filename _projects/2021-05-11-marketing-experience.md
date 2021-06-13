@@ -1,8 +1,8 @@
 ---
-title: 'Marketing Certifications'
-subtitle: 'My digital marketing education'
+title: ‘Marketing Certifications’
+subtitle: ‘My digital marketing education’
 date: 2021-05-11 00:00:00
-description: "An overview of my digital marketing and copywriting education."
+description: "An overview of my digital marketing and copywriting education"
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
@@ -55,6 +55,8 @@ I’m constantly reading books related to marketing, sales, and writing. It's a 
 Lastly, I’m in regular contact with multiple six-figure copywriters. They began as mentors and have grown into a trusted network of friends. We share insider knowledge about what works best across a range of industries. Working with me, your business gets direct access to their marketing knowledge.
 
 <blockquote>“This is one of my favorite emails I've received this year!” –  Jacob McMillen | #1 U.S. search result for ‘copywriter’</blockquote>
+
+<blockquote>“My relationship with Scott has been an incredible asset for my business. Every time I implement his suggestions, the results are mind-blowing” – Jonathan Beaudoin-S | Chief Marketing Consultant at Bonaventure & Associates</blockquote>
 
 ## Want to find out how I can help grow your business?
 ### Send me a message about your project and I'll get back to you asap!
