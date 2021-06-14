@@ -2,7 +2,7 @@
 title: Marketing Certifications
 subtitle: My digital marketing education
 date: 2021-05-11 00:00:00
-description: "An overview of my digital marketing and copywriting education"
+description: "An overview of my digital marketing and copywriting education."
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
@@ -52,9 +52,11 @@ Why trust me? I have extensive practical experience **and** I've studied the bes
 ## Other
 I’m constantly reading books related to marketing, sales, and writing. It's a never-ending process to ensure my writing consistently uses the most powerful techniques.
 
-Lastly, I’m in regular contact with multiple six-figure copywriters. They began as mentors and have grown into a trusted network of friends. We share insider knowledge about what works best across a range of industries. Working with me, your business gets direct access to their marketing knowledge.
+Lastly, I’m in regular contact with multiple six-figure copywriters. They began as mentors and have grown into a trusted network of friends. We share insider knowledge about what works best across a range of industries.
 
 <blockquote>“This is one of my favorite emails I've received this year!” –  Jacob McMillen | #1 U.S. search result for ‘copywriter’</blockquote>
+
+<blockquote>"I've known Scott for some time and have seen his work. He has a great understanding of copywriting principles and is a very helpful, charming, easy-going guy, making it a pleasure to chat and work with him. Definitely a copywriter you should keep on your radar!" – Victor Mutta | Lead Copywriter at UnfairCopy</blockquote>
 
 <blockquote>“My relationship with Scott has been an incredible asset for my business. Every time I implement his suggestions, the results are mind-blowing” – Jonathan Beaudoin-S | Chief Marketing Consultant at Bonaventure & Associates</blockquote>
 
