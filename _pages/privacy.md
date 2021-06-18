@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 subtitle: How your personal information is used
-description: How your personal information is used across the site.
+description: How your personal information is used across the site | Scott O'Neill – Freelance Copywriter and Content Writer
 featured_image: /images/privacy.jpg
 ---
 # Privacy Policy

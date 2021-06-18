@@ -1,7 +1,7 @@
 ---
 title: About me
 subtitle: I write words that captivate, convey, and convert.
-description: I write words that captivate, convey, and convert. Learn what I can do for you.
+description: I write words that captivate, convey, and convert. Learn what I can do for you | Scott O'Neill – Freelance Copywriter and Content Writer
 featured_image: /images/demo/about.jpg
 ---
 
