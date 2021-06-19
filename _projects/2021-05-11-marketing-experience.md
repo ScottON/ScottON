@@ -62,7 +62,7 @@ Lastly, I’m in regular contact with multiple six-figure copywriters. They bega
 
 <blockquote>“My relationship with Scott has been an incredible asset for my business. Every time I implement his suggestions, the results are mind-blowing” – Jonathan Beaudoin-S | Chief Marketing Consultant at Bonaventure & Associates</blockquote>
 
-## Find out how I can grow your business?
+## Find out how I can grow your business
 ### Send me a message about your project and I'll get back to you asap!
 {% include contact-form.html %}
 
