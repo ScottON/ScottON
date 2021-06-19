@@ -10,11 +10,13 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Always learning
 
-I’m a big believer in life-long learning. It’s why my digital marketing education is never going to be complete. There’s always more to learn. 
+I’m a big believer in life-long learning. 
+
+It’s why my digital marketing education is never going to be complete. There’s always more to learn. 
 
 That being said, I’ve made a good dent in the topic.
 
-I love the Inbound methodology – attract, engage, and delight your customers. Providing value to prospects rather than *tricking* them with gimmicky sales tactics. 
+I love the Inbound methodology – attract, engage, and delight your customers. Provide value to prospects rather than *trick* them with gimmicky sales tactics. Why?
 
 Happy customers will promote your business for you. They’re the key to 10x your sales. 
 
@@ -28,7 +30,7 @@ This doesn’t mean abandoning what already works. The Inbound principles can be
 Why trust me? I have extensive practical experience **and** I've studied the best practices of digital marketing.
 
 
-### Want more conversions, happier customers, and more sales?
+### Want happier customers and more sales?
 <a href="https://scott-oneill.co.uk/contact" class="button button--large">Work with me</a>
 
 ### My completed certifications
@@ -52,7 +54,7 @@ Why trust me? I have extensive practical experience **and** I've studied the bes
 ## Other
 I’m constantly reading books related to marketing, sales, and writing. It's a never-ending process to ensure my writing consistently uses the most powerful techniques.
 
-Lastly, I’m in regular contact with multiple six-figure copywriters. They began as mentors and have grown into a trusted network of friends. We share insider knowledge about what works best across a range of industries.
+Lastly, I’m in regular contact with multiple six-figure copywriters. They began as mentors and many are now part of my trusted network of friends. We share insider knowledge about what works best across a range of industries.
 
 <blockquote>“This is one of my favorite emails I've received this year!” –  Jacob McMillen | #1 U.S. search result for ‘copywriter’</blockquote>
 
@@ -60,7 +62,7 @@ Lastly, I’m in regular contact with multiple six-figure copywriters. They bega
 
 <blockquote>“My relationship with Scott has been an incredible asset for my business. Every time I implement his suggestions, the results are mind-blowing” – Jonathan Beaudoin-S | Chief Marketing Consultant at Bonaventure & Associates</blockquote>
 
-## Want to find out how I can help grow your business?
+## Find out how I can grow your business?
 ### Send me a message about your project and I'll get back to you asap!
 {% include contact-form.html %}
 

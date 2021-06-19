@@ -68,7 +68,7 @@ Contact me if you’ve got a project you’d like to discuss.
 * Ad Copy
 * Content Writing
 
-## Interested? 
+## Find out how I can grow your business? 
 ### Send me a message about your project and I'll get back to you asap!
 {% include contact-form.html %}
 
