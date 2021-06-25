@@ -1,7 +1,7 @@
 ---
-title: Thank you
+title: Thank You
 subtitle: Your message was sent successfully.
-description: Thanks! Message sent successfully | Scott O'Neill – Freelance Copywriter and Content Writer
+description: Thanks! Message sent successfully | Scott O'Neill – Freelance Copywriter & Content Writer
 featured_image: /images/demo/contact.jpg
 ---
 
