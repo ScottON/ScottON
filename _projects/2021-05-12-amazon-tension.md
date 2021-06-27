@@ -13,7 +13,7 @@ I’m a pretty serious lifter and wanted to make lockdown a little easier for an
 
 My goal was to write a short guide that explained everything you need to know about resistance band training.
  
-I wrote and released **Tension: Build a Bigger, Stronger You With Resistance Band Training**
+I wrote and released [Tension: Build a Bigger, Stronger You With Resistance Band Training](https://www.amazon.com/Tension-Bigger-Stronger-Resistance-Training-ebook/dp/B08W24VNSM/)
 
 ## Amazon store copy
 

@@ -3,10 +3,10 @@ title: Marketing Certifications
 subtitle: My digital marketing education
 date: 2021-05-11 00:00:00
 description: "An overview of my digital marketing and copywriting education."
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/certs/certs-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/certs/certs-landscape.jpg)
 
 ## Always learning
 
@@ -47,8 +47,8 @@ Why trust me? I have extensive practical experience **and** I've studied the bes
 	<img src="/images/certs/digital-marketing.jpg">
 	<img src="/images/certs/HubSpotDigitalAdvertising.png">
 	<img src="/images/certs/HubSpotEmailMarketingCertification.png">
-             <img src="/images/certs/GoogleAdsDisplayCertification.jpg">
-              <img src="/images/certs/HubSpotInboundMarketing.png">
+    <img src="/images/certs/GoogleAdsDisplayCertification.jpg">
+    <img src="/images/certs/HubSpotInboundMarketing.png">
 </div>
 
 ## Other
