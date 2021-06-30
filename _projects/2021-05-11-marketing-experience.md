@@ -56,11 +56,11 @@ I’m constantly reading books related to marketing, sales, and writing. It's a 
 
 Lastly, I’m in regular contact with multiple six-figure copywriters. They began as mentors and many are now part of my trusted network of friends. We share insider knowledge about what works best across a range of industries.
 
-<blockquote>“This is one of my favorite emails I've received this year!” –  Jacob McMillen | #1 U.S. search result for ‘copywriter’</blockquote>
+>**“*This is one of my favorite emails I've received this year!*”** |  Jacob McMillen, #1 U.S. search result for ‘copywriter’
 
-<blockquote>"I've known Scott for some time and have seen his work. He has a great understanding of copywriting principles and is a very helpful, charming, easy-going guy, making it a pleasure to chat and work with him. Definitely a copywriter you should keep on your radar!" – Victor Mutta | Lead Copywriter at UnfairCopy</blockquote>
+>**“*I've known Scott for some time and have seen his work. He has a great understanding of copywriting principles and is a very helpful, charming, easy-going guy, making it a pleasure to chat and work with him. Definitely a copywriter you should keep on your radar!*"** | Victor Mutta, Lead Copywriter at UnfairCopy
 
-<blockquote>“My relationship with Scott has been an incredible asset for my business. Every time I implement his suggestions, the results are mind-blowing” – Jonathan Beaudoin-S | Chief Marketing Consultant at Bonaventure & Associates</blockquote>
+>**“*My relationship with Scott has been an incredible asset for my business. Every time I implement his suggestions, the results are mind-blowing*”** | Jonathan Beaudoin-S, Chief Marketing Consultant at Bonaventure & Associates
 
 ## Find out how I can grow your business
 ### Send me a message about your project and I'll get back to you asap!
