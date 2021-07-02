@@ -24,7 +24,8 @@ That's what you're probably used to with other copywriters. They just want to ta
 
 You'll not have those issues if you work with me. I don’t want you to waste your money. I want you to be so happy with the results that you immediately think of me for your next project. Tell me the aim of the piece, the target market, and I'll handle the rest. You carry on smashing your goals – or drinking wine, no judgement – while I craft the copy you deserve.
 
-<blockquote>"10/10 incredible freelancer, Scott has great range, commits to the project, and takes pride in his work. I wouldn't hesitate to recommend him to family or friends... If you need anything from business copywriting to creative content writing Scott will get it done." – James Wilson | That American Grind. </blockquote>
+>**“*10/10 incredible freelancer, Scott has great range, commits to the project, and takes pride in his work. I wouldn't hesitate to recommend him to family or friends... If you need anything from business copywriting to creative content writing Scott will get it done.*"** – James Wilson, That American Grind. 
+
 ## What makes me unique:
 I was awarded a Master of Arts degree in Philosophy. It's best described as a communication and persuasive writing degree with a fancy intellectual wrapper. It's developed a multitude of skills that I bring to the table:
 
@@ -32,7 +33,8 @@ I was awarded a Master of Arts degree in Philosophy. It's best described as a co
  * **Research skills** – I'll research your business, main competitors, and voice of customer (VOC) to find unique selling points that will speak to your customers.
  * **Analytical skills** – a lot of copy is based on very shaky arguments. This lowers your trustworthiness and can cost you sales. I've got the background required to create emotional copy that can’t be dismissed for outlandish claims.
 
-<blockquote>“This is one of my favorite emails I've received this year!” – Jacob McMillen | #1 U.S. search result for ‘copywriter’</blockquote>
+>**“*This is one of my favorite emails I've received this year!*”** – Jacob McMillen, #1 U.S. search result for ‘copywriter’
+
 ## What to expect if you hire me:
  * **Questionnaire & Call** – this lets me understand your expectations, how you view your business, and get a feel for your company's ‘voice’.
  * **Research** –  I’ll investigate what’s working for your competitors and what customers say about your products.
