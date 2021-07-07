@@ -20,7 +20,7 @@ I love the Inbound methodology – attract, engage, and delight your customers. 
 
 Happy customers will promote your business for you. They’re the key to 10x your sales. 
 
-<div class="gallery" data-columns="1">
+<div class="gallery gallery--small" data-columns="1">
 <img src="/images/certs/flywheel.jpg">
 </div>
 <div align="center">From the HubSpot blog</div>
@@ -42,7 +42,7 @@ Why trust me? I have extensive practical experience **and** I've studied the bes
  * HubSpot Digital Marketing
  * HubSpot Email Marketing
 
-<div class="gallery" data-columns="1">
+<div class="gallery gallery--small" data-columns="1">
 	<img src="/images/certs/InboundCert.png">
 	<img src="/images/certs/digital-marketing.jpg">
 	<img src="/images/certs/HubSpotDigitalAdvertising.png">
