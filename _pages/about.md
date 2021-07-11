@@ -22,7 +22,7 @@ Unfortunately, you've also seen bad copy before :
 That's what you're probably used to with other copywriters. They just want to take your money, send you some awful copy, and disappear. 
 ## I work differently...
 
-You'll not have those issues if you work with me. I don’t want you to waste your money. I want you to be so happy with the results that you immediately think of me for your next project. Tell me the aim of the piece, the target market, and I'll handle the rest. You carry on smashing your goals – or drinking wine, no judgement – while I craft the copy you deserve.
+I don’t want you to waste your money. I want you to be so happy with the results that you immediately think of me for your next project. Tell me the aim of the piece, the target market, and I'll handle the rest. You carry on smashing your goals – or drinking wine, no judgement – while I craft the copy you deserve.
 
 >**“*10/10 incredible freelancer, Scott has great range, commits to the project, and takes pride in his work. I wouldn't hesitate to recommend him to family or friends... If you need anything from business copywriting to creative content writing Scott will get it done.*"** – James Wilson, That American Grind. 
 
