@@ -47,7 +47,7 @@ Why trust me? I have extensive practical experience **and** I've studied the bes
 	<img src="/images/certs/digital-marketing.jpg">
 	<img src="/images/certs/HubSpotDigitalAdvertising.png">
 	<img src="/images/certs/HubSpotEmailMarketingCertification.png">
-    <img src="/images/certs/GoogleAdsDisplayCertification.jpg">
+    <img src="/images/certs/GoogleAdsDisplayCertification.png">
     <img src="/images/certs/HubSpotInboundMarketing.png">
 </div>
 
