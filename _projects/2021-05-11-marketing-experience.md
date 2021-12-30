@@ -60,7 +60,7 @@ Lastly, I’m in regular contact with multiple six-figure copywriters. They bega
 
 >**“*I've known Scott for some time and have seen his work. He has a great understanding of copywriting principles and is a very helpful, charming, easy-going guy, making it a pleasure to chat and work with him. Definitely a copywriter you should keep on your radar!*"** – Victor Mutta, Lead Copywriter at UnfairCopy
 
->**“*My relationship with Scott has been an incredible asset for my business. Every time I implement his suggestions, the results are mind-blowing*”** – Jonathan Beaudoin-S, Chief Marketing Consultant at Bonaventure & Associates
+>**“*My relationship with Scott has been an incredible asset for my business. Every time I implement his suggestions, the results are mind-blowing!*”** – Jonathan Beaudoin-S, Chief Marketing Consultant at Bonaventure & Associates
 
 ## Find out how I can grow your business
 ### Send me a message about your project and I'll get back to you asap!
