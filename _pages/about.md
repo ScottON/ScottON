@@ -25,7 +25,9 @@ That's what you're probably used to with other copywriters. They just want to ta
 I don’t want you to waste your money. I want you to be so happy with the results that you immediately think of me for your next project. Tell me the aim of the piece, the target market, and I'll handle the rest. You carry on smashing your goals – or drinking wine, no judgement – while I craft the copy you deserve.
 
 >**“*10/10 incredible freelancer, Scott has great range, commits to the project, and takes pride in his work. I wouldn't hesitate to recommend him to family or friends... If you need anything from business copywriting to creative content writing Scott will get it done.*"** – James Wilson, That American Grind 
+
 >**"*The copywriting was so good! It really made the whole thing - 10X better! Thank you for the amazing work!*"** – Kim Woo, Established Titles
+
 >**“*Scott did a great job for us, easy to work with, very proactive and great style. We really rate him.*”** – Rob Hill, Commercial Director at Workflow Science
 
 ## What makes me unique:
