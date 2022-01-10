@@ -3,7 +3,7 @@ title: Copywriter for Builder.ai
 Subtitle:  An award-winning tech company that makes building software 6x faster and 70% cheaper
 
 date: 2021-05-21 00:00:00
-description: 2000% increase in organic traffic and 4x the paid deals for this award-winning tech company. I wrote landing pages, ads, email sequences, chatbot journeys, and content. 
+description: 4x the paid deals and 2000% increase in organic traffic for this award-winning tech company. I wrote landing pages, ads, email sequences, chatbot journeys, and content. 
 featured_image: '/images/portfolio/Builder/builder-square.png'
 ---
 
