@@ -37,7 +37,7 @@ As I said, the work was varied. Everything from work directly promoting their pr
 From sales calls, they’d discovered people were put off by too much tech talk. I was asked to simplify the existing copy. I created messaging that showcased the benefits of [their pre-packaged apps.](https://www.builder.ai/studio-store)
 
 <div class="gallery" data-columns="1">
-<img src="/images/portfolio/Builder/studio_store.jpg">
+<img src="/images/portfolio/Builder/Studio_Store.jpg">
 </div>
 <center>© Engineer.ai Corp. All Rights Reserved.</center>
 
