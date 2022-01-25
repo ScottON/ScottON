@@ -39,6 +39,7 @@ Why trust me? I have extensive practical experience **and** I've studied the bes
  * Google Display Ads
  * HubSpot Inbound
  * Hubspot Inbound Marketing – not a duplicate, this is a separate course
+ * Hubspot Content Marketing
  * HubSpot Digital Marketing
  * HubSpot Email Marketing
 
@@ -46,6 +47,7 @@ Why trust me? I have extensive practical experience **and** I've studied the bes
 	<img src="/images/certs/InboundCert.png">
 	<img src="/images/certs/digital-marketing.jpg">
 	<img src="/images/certs/HubSpotDigitalAdvertising.png">
+    <img src="/images/certs/Content_marketing.png">
 	<img src="/images/certs/HubSpotEmailMarketingCertification.png">
     <img src="/images/certs/GoogleAdsDisplayCertification.png">
     <img src="/images/certs/HubSpotInboundMarketing.png">
