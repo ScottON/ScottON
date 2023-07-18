@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: The writer your business needs
+  footer_tagline: 
 
 hero_settings:
   overlay_opacity: 0.8
@@ -41,7 +41,7 @@ social_settings:
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
-  medium_url: 'https://scott-oneill.medium.com/'
+  medium_url: 
   quora_url: ''
   amazon_url: ''
   apple_url: ''
